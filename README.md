@@ -4,11 +4,11 @@ An interactive, responsive web application designed to provide users with compre
 
 ## Features implemented
 ### Responcive design
-The application is fully responsive, ensuring optimal viewing and interaction across a wide range of devices: desktops, tablets, and mobile phones.
+  The application is fully responsive, ensuring optimal viewing and interaction across a wide range of devices: desktops, tablets, and mobile phones.
 A cohesive and visually appealing design with a consistent color scheme.​
 
 High readability with appropriate contrast ratios.​
 
 All design elements are purposefully integrated, eliminating placeholders or non-functional components.
-## Light ans dark modes
+### Light ans dark modes
 Users can seamlessly switch between light and dark themes, enhancing usability in varying lighting conditions. The selected theme preference is consistently applied across all pages.
