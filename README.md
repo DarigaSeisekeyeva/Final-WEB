@@ -35,6 +35,7 @@ Validates password complexity, email format, phone number format, and required f
 ### External API integration
 Integrated with REST APIs for dynamic content updates. Fetches real-time data to enhance the information displayed.
 
-<br />
+<br /> <br />
 All the requirements provided in the project specifications have been successfully met. 
+<br /> <br />
 > Developed by Dariga Seisekeyeva, Zarema Bazarova, Saniya Zhalgassova
