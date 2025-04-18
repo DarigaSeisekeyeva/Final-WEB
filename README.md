@@ -2,6 +2,15 @@
 
 An interactive, responsive web application designed to provide users with comprehensive information about the Central Asian countries: Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan. This project was developed for final project for the WEB Technologies 1 (Front End) course.
 
+## Preview
+![image](https://github.com/user-attachments/assets/6d662243-7cb3-4f2c-9894-5825219074bc)
+![image](https://github.com/user-attachments/assets/ecb82d02-392f-4f9b-9d6e-eaaee151b527)
+![image](https://github.com/user-attachments/assets/476ecb46-9ab6-487c-92f1-a8add37df5b2)
+![image](https://github.com/user-attachments/assets/ec8fc406-f77d-4b51-84ad-f6543c1f40b8)
+![image](https://github.com/user-attachments/assets/5b123ae0-1289-4ea4-be45-0146c7afc33e)
+![image](https://github.com/user-attachments/assets/553c4892-a97a-479f-b165-44f911bde739)
+![image](https://github.com/user-attachments/assets/3dad176a-4a44-4510-82ba-e8cb6fd80538)
+
 
 ## Features implemented
 
